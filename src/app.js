@@ -33,7 +33,6 @@ class Player {
         this.type = type;
         this.selected = false;
         this.wins = 0;
-
     }
 
     // getting random strength
